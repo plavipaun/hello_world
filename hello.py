@@ -1,6 +1,7 @@
-def hello():
-    print ('Hello world!')
-def goodbye():
-    print('Bye bye!')
+def hello(name):
+    print (f'Hello {name}!')
+def goodbye(name):
+    print('fBye bye {name}!')
+    
 def greetings():
     print('ciao')
